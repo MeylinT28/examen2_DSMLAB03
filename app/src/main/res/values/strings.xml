@@ -1,0 +1,77 @@
+<resources>
+
+    <string name="app_name">ViajaSV</string>
+
+    <!-- Login -->
+    <string name="titulo_login">ViajaSV</string>
+    <string name="subtitulo_login">Inicia sesión para continuar</string>
+    <string name="correo_electronico">Correo electrónico</string>
+    <string name="contrasena">Contraseña</string>
+    <string name="iniciar_sesion">Iniciar sesión</string>
+    <string name="registrarse">Registrarse</string>
+
+    <!-- Validaciones Login -->
+    <string name="ingrese_correo">Ingrese su correo</string>
+    <string name="ingrese_contrasena">Ingrese su contraseña</string>
+    <string name="inicio_sesion_exitoso">Inicio de sesión exitoso</string>
+    <string name="error_iniciar_sesion">Error al iniciar sesión: %1$s</string>
+
+    <!-- Home -->
+    <string name="destinos_turisticos">Destinos turísticos</string>
+    <string name="agregar_destino">Agregar destino</string>
+
+    <!-- Destino -->
+    <string name="imagen_destino">Imagen del destino</string>
+    <string name="nombre">Nombre</string>
+    <string name="pais">País</string>
+    <string name="precio">Precio</string>
+    <string name="descripcion">Descripción</string>
+
+    <!-- Formulario -->
+    <string name="nombre_destino">Nombre del destino</string>
+    <string name="descripcion_viaje">Descripción del viaje</string>
+    <string name="seleccionar_imagen">Seleccionar imagen</string>
+    <string name="guardar_destino">Guardar destino</string>
+
+    <!-- Edición -->
+    <string name="editar_destino">Editar destino</string>
+    <string name="cambiar_imagen">Cambiar imagen</string>
+    <string name="actualizar_destino">Actualizar destino</string>
+
+    <!-- Eliminación -->
+    <string name="editar">Editar</string>
+    <string name="eliminar">Eliminar</string>
+    <string name="cancelar">Cancelar</string>
+    <string name="confirmar_eliminacion">¿Está seguro de eliminar %1$s?</string>
+    <string name="destino_eliminado">Destino eliminado correctamente</string>
+
+    <!-- Mensajes -->
+    <string name="seleccione_pais">Seleccione un país</string>
+    <string name="ingrese_nombre">Ingrese el nombre</string>
+    <string name="ingrese_precio">Ingrese el precio</string>
+    <string name="precio_mayor_cero">El precio debe ser mayor a 0</string>
+    <string name="descripcion_minima">Mínimo 20 caracteres</string>
+    <string name="debe_seleccionar_imagen">Debe seleccionar una imagen</string>
+    <string name="destino_guardado">Destino guardado correctamente</string>
+    <string name="destino_actualizado">Destino actualizado correctamente</string>
+    <string name="error_guardar_destino">Error al guardar destino</string>
+    <string name="error_guardar_imagen">Error al guardar la imagen</string>
+    <string name="error_actualizar_destino">Error al actualizar destino</string>
+    <string name="error_eliminar_destino">Error al eliminar destino</string>
+    <string name="error_cargar_destinos">Error al cargar destinos: %1$s</string>
+
+    <!-- Países -->
+    <string name="seleccionar_pais">Seleccionar país</string>
+
+    <string-array name="paises">
+        <item>Seleccionar país</item>
+        <item>El Salvador</item>
+        <item>Guatemala</item>
+        <item>Honduras</item>
+        <item>Nicaragua</item>
+        <item>Costa Rica</item>
+        <item>Panamá</item>
+        <item>México</item>
+    </string-array>
+
+</resources>

@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "650365855718",
+    "project_id": "viajasv",
+    "storage_bucket": "viajasv.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:650365855718:android:5e06f064ce908e0fde5827",
+        "android_client_info": {
+          "package_name": "com.example.viajasv"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDixrE1I3YE_NbEGUSIfZcGTvohUAvXBZE"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
